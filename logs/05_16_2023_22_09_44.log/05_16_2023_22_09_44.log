@@ -1,0 +1,32 @@
+[ 2023-05-16 22:09:47,233 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-16 22:09:47,361 ] 186 werkzeug - INFO -  * Debugger PIN: 122-681-406
+[ 2023-05-16 22:11:30,037 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:11:30] "GET / HTTP/1.1" 200 -
+[ 2023-05-16 22:11:30,976 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:11:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-16 22:12:17,638 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:12:17] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2023-05-16 22:13:22,752 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:13:22] "GET / HTTP/1.1" 200 -
+[ 2023-05-16 22:15:04,896 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:15:04] "GET /Time HTTP/1.1" 200 -
+[ 2023-05-16 22:16:23,148 ] 70 root - INFO - Dataframe Gathered
+[ 2023-05-16 22:16:25,174 ] 28 root - INFO - Exception occured in prediction
+[ 2023-05-16 22:16:26,499 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:26] "[35m[1mPOST /Time HTTP/1.1[0m" 500 -
+[ 2023-05-16 22:16:27,950 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:27] "GET /Time?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-05-16 22:16:28,070 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:28] "GET /Time?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-05-16 22:16:28,526 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:28] "GET /Time?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-05-16 22:16:28,543 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:28] "[36mGET /Time?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:16:36,398 ] 70 root - INFO - Dataframe Gathered
+[ 2023-05-16 22:16:36,406 ] 28 root - INFO - Exception occured in prediction
+[ 2023-05-16 22:16:36,550 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:36] "[35m[1mPOST /Time HTTP/1.1[0m" 500 -
+[ 2023-05-16 22:16:37,011 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:37] "[36mGET /Time?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:16:37,011 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:37] "[36mGET /Time?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:16:37,155 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:37] "[36mGET /Time?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:16:37,171 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:16:37] "[36mGET /Time?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:17:21,401 ] 70 root - INFO - Dataframe Gathered
+[ 2023-05-16 22:17:21,409 ] 28 root - INFO - Exception occured in prediction
+[ 2023-05-16 22:17:21,529 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:17:21] "[35m[1mPOST /Time HTTP/1.1[0m" 500 -
+[ 2023-05-16 22:17:21,593 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:17:21] "[36mGET /Time?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:17:21,601 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:17:21] "[36mGET /Time?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:17:21,822 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:17:21] "[36mGET /Time?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-16 22:17:21,901 ] 186 werkzeug - INFO - 127.0.0.1 - - [16/May/2023 22:17:21] "[36mGET /Time?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-17 11:55:14,591 ] 186 werkzeug - INFO - 127.0.0.1 - - [17/May/2023 11:55:14] "GET / HTTP/1.1" 200 -
+[ 2023-05-17 11:55:34,202 ] 186 werkzeug - INFO - 127.0.0.1 - - [17/May/2023 11:55:34] "GET /Time HTTP/1.1" 200 -
+[ 2023-05-17 11:57:39,775 ] 70 root - INFO - Dataframe Gathered
+[ 2023-05-17 11:57:42,924 ] 186 werkzeug - INFO - 127.0.0.1 - - [17/May/2023 11:57:42] "POST /Time HTTP/1.1" 200 -
